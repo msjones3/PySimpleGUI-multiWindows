@@ -13,4 +13,4 @@ Goals:
 # Challenges
 1. modify the second window in 2multi_active_windows.py to create the following application: 
 
-[example interface](https://docs.google.com/drawings/d/e/2PACX-1vRYpf6776rauderpx4unMdga0esS38JV7J-TXy3psDC0KP8vbVDGRBiiwEi67KuE87GhPv2w2SGd3mu/pub?w=431&h=267 "example GUI interface")
+[challenge_image]( button_presses.png "example GUI interface")
